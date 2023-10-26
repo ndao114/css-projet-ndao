@@ -1,0 +1,25 @@
+body{
+    color:rgb(46, 64, 154);
+@font-face {
+    font-family: roboto;
+    src: url(<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">);
+}
+background-color: aquamarine;
+font-size: x-large;
+.p1{
+    text-align: center;
+}
+
+.p2{
+    color: blueviolet;
+}
+.p3{
+    text-align: right;
+}
+.p4{
+    background-color: bisque;text-align: center;
+}
+ 
+}
